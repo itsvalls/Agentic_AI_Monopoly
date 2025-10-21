@@ -1,4 +1,4 @@
-# Monopoly AI Concepts Demo
+# Agentic Monopoly AI
 
 A web-based Monopoly game implementation with integrated AI gameplay and interactive demonstrations of classical artificial intelligence concepts.
 
